@@ -1,6 +1,4 @@
-// import React from "react";
-// import { useState } from "react";
-// import logo1 from '../../../logo1.png';
+
 import {CartWidget} from "./CartWidget";
 
 export const NavBar = ({ logo }) => {

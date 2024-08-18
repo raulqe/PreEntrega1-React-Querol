@@ -1,5 +1,4 @@
-// import logo from './logo.svg';
-// import logo1 from '/Users/raul/Desktop/Preentrega1-Querol-React/project1/src/logo1.png';
+
 import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css";
 import {NavBar} from "./components/NavBar/index";
